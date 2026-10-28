@@ -1,0 +1,198 @@
+kucing
+anjing
+kuda
+sapi
+kerbau
+kambing
+domba
+ayam
+bebek
+angsa
+burung hantu
+elang
+gagak
+merpati
+pinguin
+paus
+lumba-lumba
+hiu
+gurita
+cumi-cumi
+udang
+kepiting
+lobster
+kura-kura
+ular
+buaya
+katak
+ikan mas
+ikan badut
+singa
+harimau
+macan tutul
+cheetah
+serigala
+rubah
+beruang
+panda
+koala
+kanguru
+gajah
+badak
+zebra
+jerapah
+unta
+kuda nil
+monyet
+gorila
+orangutan
+simpanse
+kelinci
+tikus
+hamster
+landak
+tupai
+kelelawar
+semut
+lebah
+kupu-kupu
+capung
+laba-laba
+kalajengking
+siput
+cacing
+belalang
+jangkrik
+kumbang
+nyamuk
+lalat
+musang
+berang-berang
+bunglon
+iguana
+komodo
+merak
+kakak tua
+pelikan
+flamingo
+burung unta
+walrus
+anjing laut
+albatros
+bangau
+beo
+betet
+belibis
+burung kenari
+burung gereja
+burung pipit
+burung jalak
+burung camar
+burung kasuari
+burung rangkong
+burung pelatuk
+burung merpati
+rajawali
+unta arab
+antelop
+bison
+rusa
+rusa kutub
+impala
+gazel
+hyena
+serigala kutub
+beruang kutub
+tapir
+armadilo
+trenggiling
+anteater
+sloth
+lemur
+babun
+bekantan
+siamang
+kukang
+platipus
+oposum
+rakun
+cerpelai
+sigung
+surikat
+meerkat
+berang-berang laut
+dugong
+manatee
+narwhal
+orca
+beluga
+anjing laut gajah
+hiu martil
+ikan pari
+ikan tuna
+ikan salmon
+ikan lele
+ikan nila
+ikan koi
+ikan buntal
+ikan pari manta
+ikan pedang
+ikan layar
+belut
+belut listrik
+ikan teri
+ikan sarden
+ikan kakap
+ikan kerapu
+ikan barakuda
+ikan arwana
+ikan cupang
+ikan mujair
+ikan gabus
+ikan bandeng
+ikan tongkol
+ikan layur
+ubur-ubur
+bintang laut
+teripang
+kerang
+tiram
+remis
+nautilus
+anemon laut
+karang
+udang mantis
+rajungan
+kelomang
+belalang sembah
+ulat
+rayap
+kunang-kunang
+ulat sutra
+lebah madu
+tawon
+tabuhan
+undur-undur
+wangkang
+orong-orong
+serangga tongkat
+keong
+lintah
+planaria
+kadal
+tokek
+cecak
+biawak
+ular piton
+ular kobra
+ular sanca
+ular derik
+iguana laut
+aligator
+salamander
+newt
+kodok
+penyu
+buaya muara
+katak pohon
+katak panah

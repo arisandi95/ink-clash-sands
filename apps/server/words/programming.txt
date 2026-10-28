@@ -1,0 +1,80 @@
+variabel
+fungsi
+loop
+array
+objek
+kelas
+method
+parameter
+argumen
+return
+string
+integer
+boolean
+float
+kondisi
+if else
+switch
+while
+for
+rekursi
+algoritma
+debugging
+compiler
+interpreter
+database
+query
+tabel
+kolom
+baris
+primary key
+foreign key
+index
+server
+client
+browser
+cookie
+cache
+api
+endpoint
+request
+response
+json
+html
+css
+javascript
+typescript
+python
+java
+react
+node js
+git
+commit
+branch
+merge
+pull request
+repository
+terminal
+command
+environment
+dependency
+package
+library
+framework
+testing
+unit test
+bug
+error
+log
+deploy
+docker
+container
+cloud
+network
+ip address
+port
+domain
+http
+socket
+websocket
+async

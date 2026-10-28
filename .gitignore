@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+
+# Build output and tooling caches
+dist/
+.vite/
+.cache/
+*.tsbuildinfo
+coverage/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and temporary files
+*.log
+*.tmp
+.tmp_*
+npm-debug.log*
+pnpm-debug.log*
+
+# Test artifacts
+.DS_Store
+playwright-report/
+test-results/
+
+# Local editor files
+.idea/
+
+# Markdown notes and documentation (keep README)
+*.md
+!README.md
